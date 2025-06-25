@@ -1,0 +1,39 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "farsit/user+auth",
+    "khaled/Payment",
+    "main",
+    "muktadir/backend",
+    "rahib/comments",
+    "rakesh/vote",
+    "rakib-hasan/modules_category",
+    "rakib-hasan/readme.md",
+    "rakibmia/api",
+    "rashedul/Idea"
+  ],
+  "parent": {
+    "farsit/user+auth": "main",
+    "khaled/Payment": "main",
+    "main": null,
+    "muktadir/backend": "main",
+    "rahib/comments": "main",
+    "rakesh/vote": "main",
+    "rakib-hasan/modules_category": "main",
+    "rakib-hasan/readme.md": "main",
+    "rakibmia/api": "main",
+    "rashedul/Idea": "main"
+  },
+  "order": [
+    "main",
+    "farsit/user+auth",
+    "khaled/Payment",
+    "muktadir/backend",
+    "rahib/comments",
+    "rakesh/vote",
+    "rakib-hasan/modules_category",
+    "rakib-hasan/readme.md",
+    "rakibmia/api",
+    "rashedul/Idea"
+  ]
+}
